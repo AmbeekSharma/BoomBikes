@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Linear Regression performed on the Boombikes bike rental dataset as part of an assignment for coursework in the course Executive PG in Machine Learning and AI from IIIT Bangalore.
 
 
 ## Table of Contents
@@ -11,26 +11,26 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Multiple linear regression is performed on the dataset.
+- The project is done as part of coursework in the Machine Learning module.
+- We are trying to find the number of rentals issued from the company based on numerous independent values such as temperature, weather, humidity, holiday, etc.
+- The Boombikes bike rental dataset is being used.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Check the pdf for details
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas
+- seaborn
+- matplotlib
+- statsmodels
+- sci-kit learn
+- numpy
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
